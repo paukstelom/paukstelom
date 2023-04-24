@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Martin!
 
-<!--
-**paukstelom/paukstelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python</b>
+  - Sponsors data management software for universities [(SponsorBook)](https://github.com/edsinkevic/sponsorbook)
+<br>
+<h2>📺 Certificates</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 100 Days of Code: The Complete Python Bootcamp [(Udemy)](https://www.udemy.com/course/100-days-of-code/)
+<br>
+
+<h2> 🤳 Connect with me:</h2>
+
+<a href="https://www.linkedin.com/in/paukstelis/">LinkedIn</a>
