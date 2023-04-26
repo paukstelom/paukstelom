@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - Sponsors data management software for universities [(SponsorBook)](https://github.com/edsinkevic/sponsorbook)
+  - Sponsors data management software for universities [(SponsorBook)](https://github.com/paukstelom/sponsorbook)
 <br>
 <h2>📺 Certificates</h2>
 
