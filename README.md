@@ -8,7 +8,8 @@
 <br>
 <h2>📺 Certificates</h2>
 
-- 100 Days of Code: The Complete Python Bootcamp [(Udemy)](https://www.udemy.com/course/100-days-of-code/)
+- 100 Days of Code: The Complete Python Bootcamp
+<br><br><img src='cert.jpg' width=450>
 <br>
 
 <h2> 🤳 Connect with me:</h2>
