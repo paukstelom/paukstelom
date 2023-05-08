@@ -9,7 +9,10 @@
 <h2>📺 Certificates</h2>
 
 - 100 Days of Code: The Complete Python Bootcamp
-<br><br><img src='cert.jpg' width=450>
+<br><br><img src='cert.jpg' width=350>
+ 
+ - JavaScript Crash Course
+<br><br><img src='jscert.jpg' width=350>
 <br>
 
 <h2> 🤳 Connect with me:</h2>
