@@ -4,7 +4,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - Sponsors data management software for universities [(SponsorBook)](https://github.com/paukstelom/sponsorbook)
+  - Sponsors data management software for universities (Backebd) [(SponsorBook)](https://github.com/paukstelom/sponsorbook)
+  - Sponsors data management software for universities (Frontend) [(SponsorBook)](https://github.com/paukstelom/sponsorbookui)
   
 <br><br>  
  Rest of my learning projects can be found across my repositories, check them out!
