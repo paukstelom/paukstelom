@@ -5,9 +5,9 @@ Currently doing a DevOps intership at Devbridge
  
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
-  - Sponsors data management software for universities (Backend) [(SponsorBook)](https://github.com/paukstelom/sponsorbook)
-  - Sponsors data management software for universities (Frontend) [(SponsorBook)](https://github.com/paukstelom/sponsorbookui)
+- <b>Internal tool for universit called SponsorBook (Still in progress)</b>
+  - ASGI FASTAPI Python with MongoDB for persistence [(backend)](https://github.com/paukstelom/sponsorbook)
+  - Next.js for frontend (Frontend) [(SponsorBook)](https://github.com/paukstelom/sponsorbookui)
 
 <h2> 🤳 Connect with me:</h2>
 
