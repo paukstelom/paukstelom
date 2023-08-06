@@ -1,13 +1,12 @@
 <h1>Hi, I'm Martin!
 
-Currently doing a DevOps intership at Devbridge
-
+- <b>Currently doing a DevOps intership at Devbridge</b>
  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Internal tool for universit called SponsorBook (Still in progress)</b>
-  - ASGI FASTAPI Python with MongoDB for persistence [(backend)](https://github.com/paukstelom/sponsorbook)
-  - Next.js for frontend (Frontend) [(SponsorBook)](https://github.com/paukstelom/sponsorbookui)
+  - ASGI FASTAPI Python with MongoDB for persistence [(Sponsorbook backend)](https://github.com/paukstelom/sponsorbook)
+  - Next.js for frontend [(SponsorBook frontend)](https://github.com/paukstelom/sponsorbookui)
 
 <h2> 🤳 Connect with me:</h2>
 
